@@ -1,0 +1,11 @@
+.title-bar {
+    background-color: #007bff;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.card-img-top {
+    height: 400px;
+    object-fit: cover;
+}
