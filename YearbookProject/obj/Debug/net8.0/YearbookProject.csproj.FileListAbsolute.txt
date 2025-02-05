@@ -28,3 +28,4 @@
 /Users/santiagozambrano/Desktop/SPRING_25/ISYS_270/Assignment1/YearbookProject/obj/Debug/net8.0/YearbookProject.pdb
 /Users/santiagozambrano/Desktop/SPRING_25/ISYS_270/Assignment1/YearbookProject/obj/Debug/net8.0/YearbookProject.genruntimeconfig.cache
 /Users/santiagozambrano/Desktop/SPRING_25/ISYS_270/Assignment1/YearbookProject/obj/Debug/net8.0/ref/YearbookProject.dll
+/Users/santiagozambrano/Desktop/SPRING_25/ISYS_270/Assignment1/YearbookProject/obj/Debug/net8.0/YearbookProject.sourcelink.json
